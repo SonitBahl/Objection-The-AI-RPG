@@ -2888,3 +2888,122 @@ Final action chosen:                                        |[Prefer Earth Power
 Nidoqueen used Earth Power
 [The foe's Gloom lost 2 HP, now has 0 HP]
 [The foe's Gloom fainted]
+************************** Round 1 *******************************
+Beginning AI Item use check.
+
+This is a HP-healing item.
+This is a status-curing item.
+Score for Full Restore: -100
+Highest item score: -100
+Initial switchscore building: Statuses (0)
+Initial switchscore building: Stat Stages (0)
+Initial switchscore building: Healing (0)
+Initial switchscore building: fsteak (0)
+Initial switchscore building: Typing (0)
+Initial switchscore building: Specific Switches (100)
+Meowth: initial switchscore: 100
+Initial noswitchscore building: Stat Stages (0)
+Initial noswitchscore building: Entry Hazards (0)
+Initial noswitchscore building: Alternate Switching Options (100)
+Initial noswitchscore building: Second Wind Situations (50)
+Meowth: initial noswitchscore: 150
+ShouldSwitchScore: -50 
+
+[The foe's Meowth: Calm Mind=[1, -1, -1, -1], Psyshock=[25, -1, -1, -1], Dazzling Gleam=[6, -1, -1, -1], Hyper Voice=[21, -1, -1, -1]]
+[Prefer Psyshock]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Meowth , HP percentage: 100.0 %
+Held Item:  , Ability: Magic Bounce , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |101.9 % 
+
+Scoring for Switching to other mon                          |-50 
+ 
+Scoring for items                                           |                    | 
+Full Restore                                                |-100.0              
+Calm Mind - 0 vs Nidoking, Init scoring move:               |10 
+Calm Mind - 0 vs Nidoking, Final scoring move:              |1 
+
+Dazzling Gleam - 0 vs Nidoking, Init scoring move:          |6 
+Dazzling Gleam - 0 vs Nidoking, Final scoring move:         |6 
+
+Hyper Voice - 0 vs Nidoking, Init scoring move:             |21 
+Hyper Voice - 0 vs Nidoking, Final scoring move:            |21 
+
+Psyshock - 0 vs Nidoking, Init scoring move:                |25 
+Psyshock - 0 vs Nidoking, Final scoring move:               |25 
+
+Final action chosen:                                        |[Prefer Psyshock]  
+ ______________________________________________________________________________ 
+
+Nidoking used Double Kick
+[The foe's Meowth lost 40 HP, now has 13 HP]
+[The foe's Meowth lost 13 HP, now has 0 HP]
+[The foe's Meowth fainted]
+[AI made a switch]
+
+Scoring for Meowth switching to: Meowth
+Score: -10000000
+
+Scoring for Meowth switching to: Togedemaru
+incomingpercentage: 2.476190
+Defensive: -150
+Offensive: 0
+Roles: 0
+Weather: 0
+Moves: 0
+Abilities: 0
+Items: 0
+Fields: 0
+Other Score: 0
+Final Pokemon Score: -120 
+
+Scoring for switching from: Meowth
+                                                            |New AI
+Score for switching to Meowth                               |-10000000 
+Score for switching to Togedemaru                           |-120.0 
+Switch chosen =                                             |Togedemaru 
+
+ ______________________________________________________________________________ 
+
+************************** Round 2 *******************************
+Beginning AI Item use check.
+
+This is a HP-healing item.
+This is a status-curing item.
+Score for Full Restore: -100
+Highest item score: -100
+ShouldSwitchScore: -1000 
+
+[The foe's Togedemaru: Calm Mind=[1, -1, -1, -1], Psyshock=[25, -1, -1, -1], Dazzling Gleam=[6, -1, -1, -1], Hyper Voice=[13, -1, -1, -1]]
+[Prefer Psyshock]
+
+ ______________________________________________________________________________ 
+Scoring for battler: Togedemaru , HP percentage: 100.0 %
+Held Item:  , Ability: Magic Bounce , Field: no field
+                                                            |AI Scores
+Expected Damage taken from Nidoking                         |247.6 % 
+
+Scoring for Switching to other mon                          |-1000 
+ 
+Scoring for items                                           |                    | 
+Full Restore                                                |-100.0              
+Calm Mind - 0 vs Nidoking, Init scoring move:               |10 
+Calm Mind - 0 vs Nidoking, Final scoring move:              |1 
+
+Dazzling Gleam - 0 vs Nidoking, Init scoring move:          |6 
+Dazzling Gleam - 0 vs Nidoking, Final scoring move:         |6 
+
+Hyper Voice - 0 vs Nidoking, Init scoring move:             |13 
+Hyper Voice - 0 vs Nidoking, Final scoring move:            |13 
+
+Psyshock - 0 vs Nidoking, Init scoring move:                |25 
+Psyshock - 0 vs Nidoking, Final scoring move:               |25 
+
+Final action chosen:                                        |[Prefer Psyshock]  
+ ______________________________________________________________________________ 
+
+Nidoking used Earth Power
+[The foe's Togedemaru lost 63 HP, now has 0 HP]
+[The foe's Togedemaru fainted]
